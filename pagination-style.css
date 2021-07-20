@@ -1,0 +1,46 @@
+.users{
+  background-color:rgb(245, 218, 173);
+  width:500px;
+  padding:20px;
+  margin: auto;
+  
+}
+#table{
+  border:1px solid black;
+  width:490px;
+  border-radius:5px;
+  margin:auto;
+  margin-top:5px;
+  background-color:rgb(110, 240, 110);
+  height:30px;
+}
+#col1{
+  width:28px;
+}
+#col2{
+  width:180px;
+}
+.pagination_buttons{
+  text-align:center;
+  height:30px;
+  width:350px;
+  font-size:20px;
+  padding-top:25px;
+  margin:auto;
+}
+.pagination_buttons_color{
+  border:1px solid black;
+  padding:8px;
+  background-color: rgb(255, 221, 221);
+}
+h3{
+  margin: 20px;
+  text-align: center;
+  font-size: 40px;
+  font-weight:inherit;
+  color: rgb(3, 3, 94);
+}
+.pagination_buttons_color:hover{
+  padding: 10px;
+  border:1.5px solid rgb(39, 66, 66);
+}
